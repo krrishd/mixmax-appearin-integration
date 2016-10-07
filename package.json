@@ -1,0 +1,28 @@
+{
+  "name": "mixmax-appearin-integration",
+  "version": "0.0.1",
+  "description": "A Mixmax slash command that instantly adds a unique URL for a video call to the email you're composing.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krrishd/mixmax-appearin-integration"
+  },
+  "keywords": [
+    "mixmax"
+  ],
+  "author": "Krish Dholakiya <krishna.dholakiya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krrishd/mixmax-appearin-integration/issues"
+  },
+  "homepage": "https://github.com/krrishd/mixmax-appearin-integration",
+  "dependencies": {
+    "appearin-sdk": "0.0.4",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
