@@ -20,6 +20,5 @@ This is the source for a slash command built on the Mixmax SDK that allows Mixma
 | Typeahead API URL | http://localhost:1337/typeahead |
 | Resolver API URL | http://localhost:1337/resolver |
 
-5. Run `node server.js`
-6. Open Gmail/Inbox
-7. Try `/appear` out!
+
+Run `node server.js`, open Gmail/Inbox, and try `/appear` out!
