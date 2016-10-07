@@ -1,4 +1,6 @@
-# Mixmax / [Appear.in](http://appear.in) Integration ![Picture of the button](http://i.imgur.com/IHyejP8.png)
+# Mixmax / [Appear.in](http://appear.in) Integration 
+
+![Picture of the button](http://i.imgur.com/IHyejP8.png)
 
 This is the source for a slash command built on the Mixmax SDK that allows Mixmax users to use `/appear` in order to generate a unique link to an Appear.in videoconferencing room.
 
