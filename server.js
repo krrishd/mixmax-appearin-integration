@@ -1,8 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var cors = require('cors');
-var AppearIn = require('appearin-sdk');
-var appearin = new AppearIn();
+var request = require('request');
 
 var app = express();
 
@@ -12,5 +11,5 @@ var corsOptions = {
 };
 
 app.get('/resolver', cors(corsOptions), function(req, res) {
-  
+
 });
